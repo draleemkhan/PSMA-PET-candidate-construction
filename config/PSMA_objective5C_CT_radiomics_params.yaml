@@ -1,0 +1,22 @@
+# PyRadiomics parameter file for CT candidate radiomics.
+# Shape is intentionally omitted here to avoid duplicate shape features.
+# Shape features are extracted from the PET run using the same candidate mask.
+imageType:
+  Original: {}
+
+setting:
+  binWidth: 25
+  normalize: false
+  resampledPixelSpacing: null
+  interpolator: sitkBSpline
+  force2D: false
+  geometryTolerance: 0.001
+  correctMask: true
+
+featureClass:
+  firstorder:
+  glcm:
+  glrlm:
+  glszm:
+  gldm:
+  ngtdm:

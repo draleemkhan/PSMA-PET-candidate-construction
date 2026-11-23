@@ -1,0 +1,23 @@
+# local path settings
+config/set_psma_paths.m
+config/set_psma_paths.ps1
+# never commit data, images, masks, models or results
+*.nii
+*.nii.gz
+*.nrrd
+*.dcm
+*.mat
+*.fig
+*.xlsx
+*.xls
+*.csv
+!split/*.csv
+*.png
+*.tif
+*.tiff
+*.pdf
+*.log
+*.json
+__pycache__/
+*.pyc
+06_results/

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the article once published."
+title: "Reference-informed versus PET-only candidate construction in PSMA PET/CT: analysis code"
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Muhammad Aleem"
+    affiliation: "Department of Nuclear Medicine, Ibn Sina Hospital, Kuwait City, Kuwait"
+    email: "draleemkhan@yahoo.com"
+    orcid: "https://orcid.org/0000-0001-5576-0304"
+  - family-names: "Ali"
+    given-names: "Muhammad Basim"
+    affiliation: "Department of Biomedical Engineering, Air University, Islamabad, Pakistan"
+  - family-names: "Fatima"
+    given-names: "Musfirah"
+    affiliation: "International Islamic Medical College, Rawalpindi, Pakistan"
+  - family-names: "Zohaib"
+    given-names: "Ali"
+    affiliation: "Department of Nuclear Cardiology, Faisalabad Institute of Cardiology, Faisalabad, Pakistan"
+version: "1.0.0"
+date-released: "2026-11-23"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+keywords:
+  - PSMA PET/CT
+  - candidate classification
+  - shortcut learning
+  - tumour burden
+  - radiomics

@@ -1,0 +1,8 @@
+# Python 3.10.11
+pyradiomics==3.0.1
+SimpleITK==2.5.5
+numpy==1.26.4
+pandas==2.3.3
+pyyaml
+tqdm
+openpyxl

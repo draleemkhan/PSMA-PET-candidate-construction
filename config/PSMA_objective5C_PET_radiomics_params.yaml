@@ -1,0 +1,22 @@
+# PyRadiomics parameter file for PSMA PET candidate radiomics.
+# Candidate label is supplied from the batch CSV/script, so do not hard-code label here.
+imageType:
+  Original: {}
+
+setting:
+  binWidth: 0.5
+  normalize: false
+  resampledPixelSpacing: null
+  interpolator: sitkBSpline
+  force2D: false
+  geometryTolerance: 0.001
+  correctMask: true
+
+featureClass:
+  shape:
+  firstorder:
+  glcm:
+  glrlm:
+  glszm:
+  gldm:
+  ngtdm:
