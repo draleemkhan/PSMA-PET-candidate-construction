@@ -19,6 +19,7 @@ authors:
     affiliation: "Department of Nuclear Cardiology, Faisalabad Institute of Cardiology, Faisalabad, Pakistan"
 version: "1.0.0"
 date-released: "2026-11-23"
+license: PolyForm-Noncommercial-1.0.0
 license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
 keywords:
   - PSMA PET/CT
